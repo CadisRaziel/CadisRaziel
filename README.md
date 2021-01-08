@@ -35,7 +35,7 @@ img.gif-->
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 🖥📽 Learning C#, SQL and PHP 8 on YouTube with Master João Ribeiro! | | Aprendendo C#, SQL and PHP 8 no YouTube com o Mestre João Ribeiro!
+### 🖥📽 Learning C#, SQL, JavaScript and PHP 8 on YouTube with Master João Ribeiro! | | Aprendendo C#, SQL, JavaScript and PHP 8 no YouTube com o Mestre João Ribeiro!
 
 
 Help João Ribeiro with donations | | Ajude o joão Ribeiro com donates = http://www.sys4soft.com/web/index.php/geral/donativos, he creates great classes and doesn't charge anything for it !!! | |  ele cria ótimas aulas e não cobra nada por isto !!!
