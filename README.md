@@ -44,7 +44,7 @@ Help João Ribeiro with donations | | Ajude o joão Ribeiro com donates = http:/
 ### Youtube channel📽 https://www.youtube.com/channel/UC6ZL0QLBNKBAOx6vjQXTIJA<br>
 
 
- <img src="https://user-images.githubusercontent.com/70340981/93710679-e652d400-fb1e-11ea-9fb9-582eaaa4f9bf.png" width="550" height="120"/>
+ <img src="https://user-images.githubusercontent.com/70340981/93710679-e652d400-fb1e-11ea-9fb9-582eaaa4f9bf.png" width="450" height="120"/>
  
  ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
