@@ -52,6 +52,7 @@ img.gif-->
 |Bootstra              | Status: waiting                                    |
 |WebPack               | Status: waiting                                    |
 |Gulp                  | Status: waiting                                    |
+|Postman               | Status: waiting                                    |
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -79,7 +80,7 @@ Help João Ribeiro with donations  http://www.sys4soft.com/web/index.php/geral/d
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 🖥📽 Learning REST API's RESTFul do 0 à Azure com ASP.NET Core 5 e Docker on Udemy with Leandro da Costa Gonçalves(Analista Desenvolvedor de Software)
+### 🖥📽 Learning REST API's RESTFul do 0 à Azure com ASP.NET Core 5, Postman and Docker on Udemy with Leandro da Costa Gonçalves(Analista Desenvolvedor de Software)
 
 ### Web: 🌎 https://www.udemy.com/course/restful-apis-do-0-a-nuvem-com-aspnet-core-e-docker/#instructor-1
 
