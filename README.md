@@ -26,16 +26,8 @@ img.gif-->
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 👨‍💻learning the language C#, Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap, Webpack, Gulp, MySQL and PHP 8 | | Aprendendo a linguagem C#, Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap, Webpack, Gulp, MySQL and PHP 8
+### 👨‍💻learning the language C#, Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap, Webpack, Gulp, MySQL, PHP 8, Rest api's, restful, ASP.NET core 5, Azure, Git and Docker.
 
-### Linguagem sendo estudadas até o momento:
-##### 📝 Windows form "Application development in the graphical environment | | Desenvolvimento de aplicações no ambiente grafico"
-##### ⚙️ Console "Command line application development | | Desenvolvimento de aplicação na linha de comando"
-##### 💾 SQL (SQL COMPACT EDITION , SQLITE, SQLSERVER)
-##### 👨🏼‍💻 JavaScript 
-##### 🌎 PHP 8
-##### 🌎 HTML
-##### 🌎 CSS
 
 
 |being learned         | Status Codes                                       |
