@@ -36,6 +36,30 @@ img.gif-->
 ##### 🌎 PHP 8
 ##### 🌎 HTML
 ##### 🌎 CSS
+
+
+|being learned         | Status Codes                                       |
+|----------------------|----------------------------------------------------|
+|C#                    | Status: learning                                   |
+|JavaScript            | Status: learning                                   |
+|PHP 8                 | Status: learning                                   |
+|HTML                  | Status: learning                                   |
+|CSS                   | Status: learning                                   |
+|SQL                   | Status: learning                                   |
+|Rest Api's            | Status: learning                                   |
+|Restful               | Status: learning                                   |
+|ASP.NET core 5        | Status: learning                                   |
+|GIT                   | Status: learning                                   |
+|Docker                | Status: learning                                   |
+|Azure                 | Status: waiting                                    |
+|Angular               | Status: waiting                                    |
+|React JS              | Status: waiting                                    |
+|Vue.JS                | Status: waiting                                    |
+|NodeJs                | Status: waiting                                    |
+|Jquery                | Status: waiting                                    |
+|Bootstra              | Status: waiting                                    |
+|WebPack               | Status: waiting                                    |
+|Gulp                  | Status: waiting                                    |
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
