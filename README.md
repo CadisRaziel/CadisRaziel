@@ -26,7 +26,7 @@ img.gif-->
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 👨‍💻learning the language C#, Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap, Webpack, Gulp, MySQL, PHP 8, Rest api's, restful, ASP.NET core 5, Azure, Git and Docker.
+### 👨‍💻learning the language C#, Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap, Webpack, Gulp, MySQL, PHP 8, Rest api's, Restful, ASP.NET core 5, Azure, Git and Docker.
 
 
 
@@ -55,12 +55,12 @@ img.gif-->
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 🖥📽 Learning C#, SQL and PHP 8 on YouTube with Master João Ribeiro! | | Aprendendo C#, SQL and PHP 8 no YouTube com o Mestre João Ribeiro!
+### 🖥📽 Learning C#, SQL and PHP 8 on YouTube with Master João Ribeiro! |
 
 
-Help João Ribeiro with donations | | Ajude o joão Ribeiro com donates = http://www.sys4soft.com/web/index.php/geral/donativos, he creates great classes and doesn't charge anything for it !!! | |  ele cria ótimas aulas e não cobra nada por isto !!!
+Help João Ribeiro with donations  http://www.sys4soft.com/web/index.php/geral/donativos, he creates great classes and doesn't charge anything for it !!! 
 
-### Site: 🌎 http://www.sys4soft.com/web/index.php/<br>
+### Web: 🌎 http://www.sys4soft.com/web/index.php/<br>
 ### Youtube channel📽 https://www.youtube.com/channel/UC6ZL0QLBNKBAOx6vjQXTIJA<br>
 
 
@@ -70,8 +70,19 @@ Help João Ribeiro with donations | | Ajude o joão Ribeiro com donates = http:/
 
 ### 🖥📽 Learning Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap, Webpack, Gulp and MySQL
 
-### Site: 🌎 https://www.cod3r.com.br
+### Web: 🌎 https://www.cod3r.com.br
 ### Udemy channel📽 https://www.udemy.com/course/curso-web/
 
 
 <img src="https://user-images.githubusercontent.com/70340981/104071249-870cf280-51e7-11eb-8231-e85893dc65bf.png" width="550" height="120"/>
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 🖥📽 Learning REST API's RESTFul do 0 à Azure com ASP.NET Core 5 e Docker on Udemy With Leandro da Costa Gonçalves(Analista Desenvolvedor de Software)
+
+### Web: 🌎 https://www.udemy.com/course/restful-apis-do-0-a-nuvem-com-aspnet-core-e-docker/#instructor-1
+
+
+
+
