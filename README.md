@@ -93,5 +93,5 @@ Help João Ribeiro with donations  http://www.sys4soft.com/web/index.php/geral/d
 
 ### I'm 28 years old, I'm married to an amazing wife and we have a beautiful daughter. I started studying programming in August 2020 and since then I have fallen in love with it. Every day I see class, there are rare days when I don't study, when I don't study I'm taking care of my family or riding a bike or getting a tattoo (I love tattoos)
 
-### I live in São José do Rio Preto - SP, interior of São Paulo, Brazil
+### I live in São José do Rio Preto - SP, Brazil
  
