@@ -30,7 +30,7 @@ img.gif-->
 
 
 
-|Being learned         | Status Codes                                       |
+|learning now          | Status Codes                                       |
 |----------------------|----------------------------------------------------|
 |C#                    | Status: learning                                   |
 |JavaScript            | Status: learning                                   |
