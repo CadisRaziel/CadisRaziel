@@ -30,7 +30,7 @@ img.gif-->
 
 
 
-|learning now          | Status Codes                                       |
+|Learning now          | Status Codes                                       |
 |----------------------|----------------------------------------------------|
 |C#                    | Status: learning                                   |
 |JavaScript            | Status: learning                                   |
@@ -49,7 +49,7 @@ img.gif-->
 |Vue.JS                | Status: waiting                                    |
 |NodeJs                | Status: waiting                                    |
 |Jquery                | Status: waiting                                    |
-|Bootstra              | Status: waiting                                    |
+|Bootstrap             | Status: waiting                                    |
 |WebPack               | Status: waiting                                    |
 |Gulp                  | Status: waiting                                    |
 |Postman               | Status: waiting                                    |
@@ -92,5 +92,4 @@ Help João Ribeiro with donations  http://www.sys4soft.com/web/index.php/geral/d
 
 I am 28 years old, I am married to an amazing wife and we have a beautiful daughter. I started studying programming in August 2020 and since then I fell in love with it. Every day I study, when I don't study I am taking care of my family or riding a bike or getting a tattoo (I love tattoos)
 
-### I live in São José do Rio Preto - SP, Brazil
  
