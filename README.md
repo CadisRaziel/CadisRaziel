@@ -43,11 +43,11 @@ img.gif-->
 |ASP.NET core 5        | Status: learning                                   |
 |GIT                   | Status: learning                                   |
 |Docker                | Status: learning                                   |
+|NodeJs                | Status: learning                                   |
 |Azure                 | Status: waiting                                    |
 |Angular               | Status: waiting                                    |
 |React JS              | Status: waiting                                    |
 |Vue.JS                | Status: waiting                                    |
-|NodeJs                | Status: waiting                                    |
 |Jquery                | Status: waiting                                    |
 |Bootstrap             | Status: waiting                                    |
 |WebPack               | Status: waiting                                    |
