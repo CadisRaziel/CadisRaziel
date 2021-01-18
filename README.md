@@ -38,12 +38,12 @@ img.gif-->
 |HTML                  | Status: learning                                   |
 |CSS                   | Status: learning                                   |
 |SQL                   | Status: learning                                   |
-|Rest Api's            | Status: learning                                   |
-|Restful               | Status: learning                                   |
-|ASP.NET core 5        | Status: learning                                   |
 |GIT                   | Status: learning                                   |
-|Docker                | Status: learning                                   |
 |NodeJs                | Status: learning                                   |
+|Docker                | Status: waiting                                    |
+|Rest Api's            | Status: waiting                                    |
+|Restful               | Status: waiting                                    |
+|ASP.NET core 5        | Status: waiting                                    |
 |Azure                 | Status: waiting                                    |
 |Angular               | Status: waiting                                    |
 |React JS              | Status: waiting                                    |
