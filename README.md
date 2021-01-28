@@ -30,29 +30,29 @@ img.gif-->
 
 
 
-|Learning now          | Status Codes                                       |
-|----------------------|----------------------------------------------------|
-|C#                    | Status: learning                                   |
-|JavaScript            | Status: learning                                   |
-|PHP 8                 | Status: learning                                   |
-|HTML                  | Status: learning                                   |
-|CSS                   | Status: learning                                   |
-|SQL                   | Status: learning                                   |
-|GIT                   | Status: learning                                   |
-|NodeJs                | Status: learning                                   |
-|Docker                | Status: waiting                                    |
-|Rest Api's            | Status: waiting                                    |
-|Restful               | Status: waiting                                    |
-|ASP.NET core 5        | Status: waiting                                    |
-|Azure                 | Status: waiting                                    |
-|Angular               | Status: waiting                                    |
-|React JS              | Status: waiting                                    |
-|Vue.JS                | Status: waiting                                    |
-|Jquery                | Status: waiting                                    |
-|Bootstrap             | Status: waiting                                    |
-|WebPack               | Status: waiting                                    |
-|Gulp                  | Status: waiting                                    |
-|Postman               | Status: waiting                                    |
+|Learning now          | Status Codes                                       |Teacher                          |
+|----------------------|----------------------------------------------------|---------------------------------|
+|C#                    | Status: learning                                   |                                 |
+|JavaScript            | Status: learning                                   |                                 |
+|PHP 8                 | Status: learning                                   |                                 |
+|HTML                  | Status: learning                                   |                                 |
+|CSS                   | Status: learning                                   |                                 |
+|SQL                   | Status: learning                                   |                                 |
+|GIT                   | Status: learning                                   |                                 |
+|NodeJs                | Status: learning                                   |                                 |
+|Docker                | Status: waiting                                    |                                 |
+|Rest Api's            | Status: waiting                                    |                                 |
+|Restful               | Status: waiting                                    |                                 |
+|ASP.NET core 5        | Status: waiting                                    |                                 |
+|Azure                 | Status: waiting                                    |                                 |
+|Angular               | Status: waiting                                    |                                 |
+|React JS              | Status: waiting                                    |                                 |
+|Vue.JS                | Status: waiting                                    |                                 |
+|Jquery                | Status: waiting                                    |                                 |
+|Bootstrap             | Status: waiting                                    |                                 |
+|WebPack               | Status: waiting                                    |                                 |
+|Gulp                  | Status: waiting                                    |                                 |
+|Postman               | Status: waiting                                    |                                 |
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
