@@ -94,7 +94,7 @@ Help João Ribeiro with donations  http://www.sys4soft.com/web/index.php/geral/d
 
 
 
-<img src="https://user-images.githubusercontent.com/70340981/106161544-e6ff1500-6165-11eb-9764-9713e424cfca.png" width="550" height="100"/>
+<img src="https://user-images.githubusercontent.com/70340981/106161544-e6ff1500-6165-11eb-9764-9713e424cfca.png" width="550" height="200"/>
 
 
 
