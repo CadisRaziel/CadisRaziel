@@ -30,29 +30,29 @@ img.gif-->
 
 
 
-|Learning now          | Status Codes                                       |Teacher                          |
-|----------------------|----------------------------------------------------|---------------------------------|
-|C#                    | Status: learning                                   |                                 |
-|JavaScript            | Status: learning                                   |                                 |
-|PHP 8                 | Status: learning                                   |                                 |
-|HTML                  | Status: learning                                   |                                 |
-|CSS                   | Status: learning                                   |                                 |
-|SQL                   | Status: learning                                   |                                 |
-|GIT                   | Status: learning                                   |                                 |
-|NodeJs                | Status: learning                                   |                                 |
-|Docker                | Status: waiting                                    |                                 |
-|Rest Api's            | Status: waiting                                    |                                 |
-|Restful               | Status: waiting                                    |                                 |
-|ASP.NET core 5        | Status: waiting                                    |                                 |
-|Azure                 | Status: waiting                                    |                                 |
-|Angular               | Status: waiting                                    |                                 |
-|React JS              | Status: waiting                                    |                                 |
-|Vue.JS                | Status: waiting                                    |                                 |
-|Jquery                | Status: waiting                                    |                                 |
-|Bootstrap             | Status: waiting                                    |                                 |
-|WebPack               | Status: waiting                                    |                                 |
-|Gulp                  | Status: waiting                                    |                                 |
-|Postman               | Status: waiting                                    |                                 |
+|Learning now          | Status Codes                                       |Teacher                                                         |
+|----------------------|----------------------------------------------------|----------------------------------------------------------------|
+|C#                    | Status: learning                                   |Joao Ribeiro (Sys4soft)                                         |
+|JavaScript            | Status: learning                                   |Joao Ribeiro and Leonardo Moura Leitao (Sys4soft and Cod3r)     |
+|PHP 8                 | Status: learning                                   |Joao Ribeiro (Sys4soft)                                         |
+|HTML                  | Status: learning                                   |Joao Ribeiro and Leonardo Moura Leitao (Sys4soft and Cod3r)     |
+|CSS                   | Status: learning                                   |Joao Ribeiro and Leonardo Moura Leitao (Sys4soft and Cod3r)     |
+|SQL                   | Status: learning                                   |Joao Ribeiro (Sys4soft)                                         |
+|GIT                   | Status: learning                                   |Mayk Brito (Rocketseat)                                         |
+|NodeJs                | Status: learning                                   |Leonardo Moura Leitao (Cod3r)                                   |
+|Docker                | Status: waiting                                    |Leandro da Costa Gonçalves (Udemy)                              |
+|Rest Api's            | Status: waiting                                    |Leandro da Costa Gonçalves (Udemy)                              |
+|Restful               | Status: waiting                                    |Leandro da Costa Gonçalves (Udemy)                              |
+|ASP.NET core 5        | Status: waiting                                    |Leandro da Costa Gonçalves (Udemy)                              |
+|Azure                 | Status: waiting                                    |Leandro da Costa Gonçalves (Udemy)                              |
+|Angular               | Status: waiting                                    |Leonardo Moura Leitao (Cod3r)                                   |
+|React JS              | Status: waiting                                    |Leonardo Moura Leitao (Cod3r)                                   |
+|Vue.JS                | Status: waiting                                    |Leonardo Moura Leitao (Cod3r)                                   |
+|Jquery                | Status: waiting                                    |Leonardo Moura Leitao (Cod3r)                                   |
+|Bootstrap             | Status: waiting                                    |Joao Ribeiro and Leonardo Moura Leitao (Sys4soft and Cod3r)     |
+|WebPack               | Status: waiting                                    |Leonardo Moura Leitao (Cod3r)                                   |
+|Gulp                  | Status: waiting                                    |Leonardo Moura Leitao (Cod3r)                                   |
+|Postman               | Status: waiting                                    |Leandro da Costa Gonçalves (Udemy)                              |
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -83,6 +83,19 @@ Help João Ribeiro with donations  http://www.sys4soft.com/web/index.php/geral/d
 ### 🖥📽 Learning REST API's RESTFul do 0 à Azure com ASP.NET Core 5, Postman and Docker on Udemy with Leandro da Costa Gonçalves(Analista Desenvolvedor de Software)
 
 ### Web: 🌎 https://www.udemy.com/course/restful-apis-do-0-a-nuvem-com-aspnet-core-e-docker/#instructor-1
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 🖥📽 Learning Git and Github with Mayk Brito
+
+
+### Web: 🌎 https://app.rocketseat.com.br/node/o-guia-estelar-de-git
+
+
+
+<img src="https://user-images.githubusercontent.com/70340981/106161544-e6ff1500-6165-11eb-9764-9713e424cfca.png" width="550" height="120"/>
+
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
