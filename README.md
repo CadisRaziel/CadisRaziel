@@ -87,7 +87,7 @@ Help João Ribeiro with donations  http://www.sys4soft.com/web/index.php/geral/d
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 🖥📽 Learning Git and Github with Mayk Brito
+### 🖥📽 Learning Git and Github with Mayk Brito !
 
 
 ### Web: 🌎 https://app.rocketseat.com.br/node/o-guia-estelar-de-git
