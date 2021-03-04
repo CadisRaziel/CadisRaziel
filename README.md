@@ -30,60 +30,36 @@ img.gif-->
 
 
 
-|Learning now          | Status Codes                                       |Teacher                                                         |
-|----------------------|----------------------------------------------------|----------------------------------------------------------------|
-|C#                    | Status: learning                                   |Joao Ribeiro (Sys4soft)                                         |
-|JavaScript            | Status: learning                                   |Joao Ribeiro and Leonardo Moura Leitao (Sys4soft and Cod3r)     |
-|PHP 8                 | Status: learning                                   |Joao Ribeiro (Sys4soft)                                         |
-|HTML                  | Status: learning                                   |Joao Ribeiro and Leonardo Moura Leitao (Sys4soft and Cod3r)     |
-|CSS                   | Status: learning                                   |Joao Ribeiro and Leonardo Moura Leitao (Sys4soft and Cod3r)     |
-|SQL                   | Status: learning                                   |Joao Ribeiro (Sys4soft)                                         |
-|GIT                   | Status: learning                                   |Mayk Brito (Rocketseat)                                         |
-|NodeJs                | Status: learning                                   |Leonardo Moura Leitao (Cod3r)                                   |
-|Docker                | Status: waiting                                    |Leandro da Costa Gonçalves (Udemy)                              |
-|Rest Api's            | Status: waiting                                    |Leandro da Costa Gonçalves (Udemy)                              |
-|Restful               | Status: waiting                                    |Leandro da Costa Gonçalves (Udemy)                              |
-|ASP.NET core 5        | Status: waiting                                    |Leandro da Costa Gonçalves (Udemy)                              |
-|Azure                 | Status: waiting                                    |Leandro da Costa Gonçalves (Udemy)                              |
-|Angular               | Status: waiting                                    |Leonardo Moura Leitao (Cod3r)                                   |
-|React JS              | Status: waiting                                    |Leonardo Moura Leitao (Cod3r)                                   |
-|Vue.JS                | Status: waiting                                    |Leonardo Moura Leitao (Cod3r)                                   |
-|Jquery                | Status: waiting                                    |Leonardo Moura Leitao (Cod3r)                                   |
-|Bootstrap             | Status: waiting                                    |Joao Ribeiro and Leonardo Moura Leitao (Sys4soft and Cod3r)     |
-|WebPack               | Status: waiting                                    |Leonardo Moura Leitao (Cod3r)                                   |
-|Gulp                  | Status: waiting                                    |Leonardo Moura Leitao (Cod3r)                                   |
-|Postman               | Status: waiting                                    |Leandro da Costa Gonçalves (Udemy)                              |
+|Learning now          | Status Codes                                       |Teacher                                                                                           |
+|----------------------|----------------------------------------------------|--------------------------------------------------------------------------------------------------|
+|JavaScript            | Status: learning                                   |Joao Ribeiro, Leonardo Moura Leitao and Victor lima (Sys4soft, Cod3r and Guia do programador)     |
+|HTML                  | Status: learning                                   |Joao Ribeiro, Leonardo Moura Leitao and Victor lima (Sys4soft, Cod3r and Guia do programador)     | 
+|CSS                   | Status: learning                                   |Joao Ribeiro, Leonardo Moura Leitao and Victor lima (Sys4soft, Cod3r and Guia do programador)     |
+|MySQL                 | Status: learning                                   |Joao Ribeiro, Victor lima (Sys4soft, Guia do programador)                                         |
+|GIT                   | Status: learning                                   |Mayk Brito (Rocketseat)                                                                           |
+|NodeJs(Express)       | Status: learning                                   |Leonardo Moura Leitao (Cod3r) and Victor Lima (Guia do programador                                |
+|Bootstrap             | Status: learning                                   |Joao Ribeiro, Leonardo Moura Leitao and Victor lima (Sys4soft, Cod3r and guia do programador)     | 
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-|Learning now          | Status Codes                                       |Teacher                                                         |
-|----------------------|----------------------------------------------------|----------------------------------------------------------------|
-|C#                    | Status: learning                                   |Joao Ribeiro (Sys4soft)                                         |
-|JavaScript            | Status: learning                                   |Joao Ribeiro and Leonardo Moura Leitao (Sys4soft and Cod3r)     |
-|PHP 8                 | Status: learning                                   |Joao Ribeiro (Sys4soft)                                         |
-|HTML                  | Status: learning                                   |Joao Ribeiro and Leonardo Moura Leitao (Sys4soft and Cod3r)     |
-|CSS                   | Status: learning                                   |Joao Ribeiro and Leonardo Moura Leitao (Sys4soft and Cod3r)     |
-|SQL                   | Status: learning                                   |Joao Ribeiro (Sys4soft)                                         |
-|GIT                   | Status: learning                                   |Mayk Brito (Rocketseat)                                         |
-|NodeJs                | Status: learning                                   |Leonardo Moura Leitao (Cod3r)                                   |
-|Docker                | Status: waiting                                    |Leandro da Costa Gonçalves (Udemy)                              |
-|Rest Api's            | Status: waiting                                    |Leandro da Costa Gonçalves (Udemy)                              |
-|Restful               | Status: waiting                                    |Leandro da Costa Gonçalves (Udemy)                              |
-|ASP.NET core 5        | Status: waiting                                    |Leandro da Costa Gonçalves (Udemy)                              |
-|Azure                 | Status: waiting                                    |Leandro da Costa Gonçalves (Udemy)                              |
-|Angular               | Status: waiting                                    |Leonardo Moura Leitao (Cod3r)                                   |
-|React JS              | Status: waiting                                    |Leonardo Moura Leitao (Cod3r)                                   |
-|Vue.JS                | Status: waiting                                    |Leonardo Moura Leitao (Cod3r)                                   |
-|Jquery                | Status: waiting                                    |Leonardo Moura Leitao (Cod3r)                                   |
-|Bootstrap             | Status: waiting                                    |Joao Ribeiro and Leonardo Moura Leitao (Sys4soft and Cod3r)     |
-|WebPack               | Status: waiting                                    |Leonardo Moura Leitao (Cod3r)                                   |
-|Gulp                  | Status: waiting                                    |Leonardo Moura Leitao (Cod3r)                                   |
-|Postman               | Status: waiting                                    |Leandro da Costa Gonçalves (Udemy)                              |
+|Studying in parallel  | Status Codes                                       |Teacher                                                          |
+|----------------------|----------------------------------------------------|-----------------------------------------------------------------|
+|C#                    | Status: learning                                   |Joao Ribeiro (Sys4soft)                                          |
+|PHP 8                 | Status: learning                                   |Joao Ribeiro (Sys4soft)                                          |
+|Rest Api's            | Status: waiting                                    |Victor lima (Guia do programador)                                |
+|Restful               | Status: waiting                                    |Victor lima (Guia do programador)                                |
+|Angular               | Status: waiting                                    |Leonardo Moura Leitao (Cod3r)                                    |
+|React JS              | Status: waiting                                    |Leonardo Moura Leitao (Cod3r)                                    |
+|Vue.JS                | Status: waiting                                    |Leonardo Moura Leitao and Victor lima (Cod3r, Guia do programdor)|
+|Jquery                | Status: waiting                                    |Leonardo Moura Leitao and Victor lima (Cod3r, Guia do programdor)|
+|WebPack               | Status: waiting                                    |Leonardo Moura Leitao (Cod3r)                                    |
+|Gulp                  | Status: waiting                                    |Leonardo Moura Leitao (Cod3r)                                    |
+|Postman/insomnia      | Status: waiting                                    |Victor lima (Guia do programador)                                |
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-### 🖥📽 Learning C#, SQL and PHP 8 on YouTube with Master João Ribeiro! |
+### 🖥📽 Learning C#, MySQL and PHP 8 on YouTube with Master João Ribeiro! |
 
 
 Help João Ribeiro with donations  http://www.sys4soft.com/web/index.php/geral/donativos, he creates great classes and doesn't charge anything for it !!! 
@@ -96,7 +72,7 @@ Help João Ribeiro with donations  http://www.sys4soft.com/web/index.php/geral/d
  
  ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 🖥📽 Learning Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap, Webpack, Gulp and MySQL
+### 🖥📽 Learning Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap, Webpack, Gulp and MySQL on udemy with Leonardo Moura Leitao
 
 ### Web: 🌎 https://www.cod3r.com.br
 ### Udemy channel📽 https://www.udemy.com/course/curso-web/
@@ -107,16 +83,15 @@ Help João Ribeiro with donations  http://www.sys4soft.com/web/index.php/geral/d
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 🖥📽 Learning REST API's RESTFul do 0 à Azure com ASP.NET Core 5, Postman and Docker on Udemy with Leandro da Costa Gonçalves(Analista Desenvolvedor de Software)
+### 🖥📽 Learning NodeJS, JavaScript, frameworks, MySQL and software's on udemy with Victor Lima
+### Web: 🌎 https://www.udemy.com/course/formacao-nodejs/
 
-### Web: 🌎 https://www.udemy.com/course/restful-apis-do-0-a-nuvem-com-aspnet-core-e-docker/#instructor-1
 
+<img src="https://user-images.githubusercontent.com/70340981/110033987-ce5fbd00-7d18-11eb-8bbc-47b8d77821dc.png" width="550" height="200"/>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🖥📽 Learning Git and Github with Mayk Brito !
-
-
 ### Web: 🌎 https://app.rocketseat.com.br/node/o-guia-estelar-de-git
 
 
