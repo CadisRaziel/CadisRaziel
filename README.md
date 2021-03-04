@@ -56,6 +56,33 @@ img.gif-->
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
+|Learning now          | Status Codes                                       |Teacher                                                         |
+|----------------------|----------------------------------------------------|----------------------------------------------------------------|
+|C#                    | Status: learning                                   |Joao Ribeiro (Sys4soft)                                         |
+|JavaScript            | Status: learning                                   |Joao Ribeiro and Leonardo Moura Leitao (Sys4soft and Cod3r)     |
+|PHP 8                 | Status: learning                                   |Joao Ribeiro (Sys4soft)                                         |
+|HTML                  | Status: learning                                   |Joao Ribeiro and Leonardo Moura Leitao (Sys4soft and Cod3r)     |
+|CSS                   | Status: learning                                   |Joao Ribeiro and Leonardo Moura Leitao (Sys4soft and Cod3r)     |
+|SQL                   | Status: learning                                   |Joao Ribeiro (Sys4soft)                                         |
+|GIT                   | Status: learning                                   |Mayk Brito (Rocketseat)                                         |
+|NodeJs                | Status: learning                                   |Leonardo Moura Leitao (Cod3r)                                   |
+|Docker                | Status: waiting                                    |Leandro da Costa Gonçalves (Udemy)                              |
+|Rest Api's            | Status: waiting                                    |Leandro da Costa Gonçalves (Udemy)                              |
+|Restful               | Status: waiting                                    |Leandro da Costa Gonçalves (Udemy)                              |
+|ASP.NET core 5        | Status: waiting                                    |Leandro da Costa Gonçalves (Udemy)                              |
+|Azure                 | Status: waiting                                    |Leandro da Costa Gonçalves (Udemy)                              |
+|Angular               | Status: waiting                                    |Leonardo Moura Leitao (Cod3r)                                   |
+|React JS              | Status: waiting                                    |Leonardo Moura Leitao (Cod3r)                                   |
+|Vue.JS                | Status: waiting                                    |Leonardo Moura Leitao (Cod3r)                                   |
+|Jquery                | Status: waiting                                    |Leonardo Moura Leitao (Cod3r)                                   |
+|Bootstrap             | Status: waiting                                    |Joao Ribeiro and Leonardo Moura Leitao (Sys4soft and Cod3r)     |
+|WebPack               | Status: waiting                                    |Leonardo Moura Leitao (Cod3r)                                   |
+|Gulp                  | Status: waiting                                    |Leonardo Moura Leitao (Cod3r)                                   |
+|Postman               | Status: waiting                                    |Leandro da Costa Gonçalves (Udemy)                              |
+ 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 ### 🖥📽 Learning C#, SQL and PHP 8 on YouTube with Master João Ribeiro! |
 
 
