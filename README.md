@@ -26,7 +26,7 @@ img.gif-->
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 👨‍💻learning the language C#, Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap, Webpack, Gulp, MySQL, PHP 8, Rest api's, Restful, ASP.NET core 5, Azure, Git, Docker and Postman.
+### 👨‍💻learning the language C#, Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap, Webpack, Gulp, MySQL, PHP 8, Rest api's, Restful, Git, Insomnia and Postman.
 
 
 
