@@ -104,7 +104,7 @@ Help João Ribeiro with donations  http://www.sys4soft.com/web/index.php/geral/d
 ### About me
 
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="vertical" data-theme="dark" data-vanity="vitor-brussolo-zerbato-474447176"><a class="LI-simple-link" href='https://br.linkedin.com/in/vitor-brussolo-zerbato-474447176?trk=profile-badge'>Vitor Brussolo Zerbato</a></div>
- <img src="https://user-images.githubusercontent.com/70340981/104138290-e7d03280-5381-11eb-8dea-7edc9064a917.png" width="250" height="280"/>
+ <img src="https://user-images.githubusercontent.com/70340981/110213224-d6853d00-7e7d-11eb-83cd-71d9dd5e755e.jpg>
 
 I am 28 years old, I am married to an amazing wife and we have a beautiful daughter. I started studying programming in August 2020 and since then I fell in love with it. Every day I study, when I don't study I am taking care of my family or riding a bike or getting a tattoo (I love tattoos)
 
