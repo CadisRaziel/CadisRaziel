@@ -39,6 +39,7 @@ img.gif-->
 |GIT                   | Status: learning                                   |Mayk Brito (Rocketseat)                                                                           |
 |NodeJs(Express)       | Status: learning                                   |Leonardo Moura Leitao (Cod3r) and Victor Lima (Guia do programador                                |
 |Bootstrap             | Status: learning                                   |Joao Ribeiro, Leonardo Moura Leitao and Victor lima (Sys4soft, Cod3r and guia do programador)     | 
+React-Native           | Status: learning                                   |Leonardo moura leitao (Cod3r)                                                       |
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
