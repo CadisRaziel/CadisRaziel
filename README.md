@@ -26,7 +26,7 @@ img.gif-->
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 👨‍💻learning the language: Kotlin, React Native, NodeJS(JavaScript), C#(Asp.net core)
+### 👨‍💻learning the language: Kotlin, React Native, NodeJS(JavaScript), C#
 
 
 
@@ -35,7 +35,7 @@ img.gif-->
 |Kotlin                | Status: learning                                   |  
 |React Native          | Status: learning                                   |
 |NodeJS(JavaScript)    | Status: learning                                   |
-|C#(Asp.net core)      | Status: learning                                   |
+|C#                    | Status: learning                                   |
 
 
  
