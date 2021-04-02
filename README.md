@@ -26,7 +26,7 @@ img.gif-->
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 👨‍💻learning the language: Kotlin, React Native, NodeJS(JavaScript), C#
+### 👨‍💻learning the language: Kotlin, Java, NodeJS(JavaScript) and React-Native
 
 
 
