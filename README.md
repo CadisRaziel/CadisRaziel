@@ -33,9 +33,9 @@ img.gif-->
 |Learning now          | Status Codes                                       |
 |----------------------|----------------------------------------------------|
 |Kotlin                | Status: learning                                   |  
-|React Native          | Status: learning                                   |
+|Java                  | Status: learning                                   |
 |NodeJS(JavaScript)    | Status: learning                                   |
-|C#                    | Status: learning                                   |
+|React Native          | Status: learning                                   |
 
 
  
