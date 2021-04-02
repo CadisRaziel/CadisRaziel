@@ -40,22 +40,8 @@ img.gif-->
 |NodeJs(Express)       | Status: learning                                   |Leonardo Moura Leitao (Cod3r) and Victor Lima (Guia do programador                                |
 |Bootstrap             | Status: learning                                   |Joao Ribeiro, Leonardo Moura Leitao and Victor lima (Sys4soft, Cod3r and guia do programador)     | 
 React-Native           | Status: learning                                   |Leonardo moura leitao (Cod3r)                                                       |
- 
----------------------------------------------------------------------------------------------------------------------------------------------------------
+Kotlin      |          | Status: Learning 
 
-|Studying in parallel  | Status Codes                                       |Teacher                                                          |
-|----------------------|----------------------------------------------------|-----------------------------------------------------------------|
-|C#                    | Status: learning                                   |Joao Ribeiro (Sys4soft)                                          |
-|PHP 8                 | Status: learning                                   |Joao Ribeiro (Sys4soft)                                          |
-|Rest Api's            | Status: waiting                                    |Victor lima (Guia do programador)                                |
-|Restful               | Status: waiting                                    |Victor lima (Guia do programador)                                |
-|Angular               | Status: waiting                                    |Leonardo Moura Leitao (Cod3r)                                    |
-|React JS              | Status: waiting                                    |Leonardo Moura Leitao (Cod3r)                                    |
-|Vue.JS                | Status: waiting                                    |Leonardo Moura Leitao and Victor lima (Cod3r, Guia do programdor)|
-|Jquery                | Status: waiting                                    |Leonardo Moura Leitao and Victor lima (Cod3r, Guia do programdor)|
-|WebPack               | Status: waiting                                    |Leonardo Moura Leitao (Cod3r)                                    |
-|Gulp                  | Status: waiting                                    |Leonardo Moura Leitao (Cod3r)                                    |
-|Postman/insomnia      | Status: waiting                                    |Victor lima (Guia do programador)                                |
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -73,7 +59,7 @@ Help João Ribeiro with donations  http://www.sys4soft.com/web/index.php/geral/d
  
  ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 🖥📽 Learning Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap, Webpack, Gulp and MySQL on udemy with Leonardo Moura Leitao
+### 🖥📽 Learning Javascript, React Native,Node, HTML, CSS, jQuery, Bootstrap, Webpack, and MySQL on udemy with Leonardo Moura Leitao
 
 ### Web: 🌎 https://www.cod3r.com.br
 ### Udemy channel📽 https://www.udemy.com/course/curso-web/
@@ -92,16 +78,6 @@ Help João Ribeiro with donations  http://www.sys4soft.com/web/index.php/geral/d
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 🖥📽 Learning Git and Github with Mayk Brito !
-### Web: 🌎 https://app.rocketseat.com.br/node/o-guia-estelar-de-git
-
-
-
-<img src="https://user-images.githubusercontent.com/70340981/106161544-e6ff1500-6165-11eb-9764-9713e424cfca.png" width="550" height="200"/>
-
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About me
 
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="vertical" data-theme="dark" data-vanity="vitor-brussolo-zerbato-474447176"><a class="LI-simple-link" href='https://br.linkedin.com/in/vitor-brussolo-zerbato-474447176?trk=profile-badge'>Vitor Brussolo Zerbato</a></div>
