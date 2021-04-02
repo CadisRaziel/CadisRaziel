@@ -26,21 +26,17 @@ img.gif-->
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 👨‍💻learning the language: Kotlin, Javascript, React Native, NodeJS
+### 👨‍💻learning the language: Kotlin, React Native, NodeJS(JavaScript), C#
 
 
 
-|Learning now          | Status Codes                                       |Teacher                                                                                           |
-|----------------------|----------------------------------------------------|--------------------------------------------------------------------------------------------------|
-|JavaScript            | Status: learning                                   |Joao Ribeiro, Leonardo Moura Leitao and Victor lima (Sys4soft, Cod3r and Guia do programador)     |
-|HTML                  | Status: learning                                   |Joao Ribeiro, Leonardo Moura Leitao and Victor lima (Sys4soft, Cod3r and Guia do programador)     | 
-|CSS                   | Status: learning                                   |Joao Ribeiro, Leonardo Moura Leitao and Victor lima (Sys4soft, Cod3r and Guia do programador)     |
-|MySQL                 | Status: learning                                   |Joao Ribeiro, Victor lima (Sys4soft, Guia do programador)                                         |
-|GIT                   | Status: learning                                   |Mayk Brito (Rocketseat)                                                                           |
-|NodeJs(Express)       | Status: learning                                   |Leonardo Moura Leitao (Cod3r) and Victor Lima (Guia do programador                                |
-|Bootstrap             | Status: learning                                   |Joao Ribeiro, Leonardo Moura Leitao and Victor lima (Sys4soft, Cod3r and guia do programador)     | 
-React-Native           | Status: learning                                   |Leonardo moura leitao (Cod3r)                                                       |
-Kotlin                 | Status: Learning                                   | 
+|Learning now          | Status Codes                                       |
+|----------------------|----------------------------------------------------|
+|Kotlin                | Status: learning                                   |  
+|React Native          | Status: learning                                   |
+|NodeJS(JavaScript)    | Status: learning                                   |
+|C#                    | Status: learning                                   |
+
 
  
 
