@@ -26,7 +26,7 @@ img.gif-->
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 👨‍💻learning the language C#, Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap, Webpack, Gulp, MySQL, PHP 8, Rest api's, Restful, Git, Insomnia and Postman.
+### 👨‍💻learning the language: Kotlin, Javascript, React Native, NodeJS
 
 
 
@@ -40,43 +40,9 @@ img.gif-->
 |NodeJs(Express)       | Status: learning                                   |Leonardo Moura Leitao (Cod3r) and Victor Lima (Guia do programador                                |
 |Bootstrap             | Status: learning                                   |Joao Ribeiro, Leonardo Moura Leitao and Victor lima (Sys4soft, Cod3r and guia do programador)     | 
 React-Native           | Status: learning                                   |Leonardo moura leitao (Cod3r)                                                       |
-Kotlin      |          | Status: Learning 
+Kotlin                 | Status: Learning                                   | 
 
  
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-### 🖥📽 Learning C#, MySQL and PHP 8 on YouTube with Master João Ribeiro! |
-
-
-Help João Ribeiro with donations  http://www.sys4soft.com/web/index.php/geral/donativos, he creates great classes and doesn't charge anything for it !!! 
-
-### Web: 🌎 http://www.sys4soft.com/web/index.php/<br>
-### Youtube channel📽 https://www.youtube.com/channel/UC6ZL0QLBNKBAOx6vjQXTIJA<br>
-
-
- <img src="https://user-images.githubusercontent.com/70340981/93710679-e652d400-fb1e-11ea-9fb9-582eaaa4f9bf.png" width="450" height="120"/>
- 
- ---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### 🖥📽 Learning Javascript, React Native,Node, HTML, CSS, jQuery, Bootstrap, Webpack, and MySQL on udemy with Leonardo Moura Leitao
-
-### Web: 🌎 https://www.cod3r.com.br
-### Udemy channel📽 https://www.udemy.com/course/curso-web/
-
-
-<img src="https://user-images.githubusercontent.com/70340981/104071249-870cf280-51e7-11eb-8231-e85893dc65bf.png" width="550" height="120"/>
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### 🖥📽 Learning NodeJS, JavaScript, frameworks, MySQL, Bootstrap and software's on udemy with Victor Lima
-### Web: 🌎 https://www.udemy.com/course/formacao-nodejs/
-
-
-<img src="https://user-images.githubusercontent.com/70340981/110033987-ce5fbd00-7d18-11eb-8bbc-47b8d77821dc.png" width="550" height="200"/>
-
----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### About me
 
