@@ -30,12 +30,11 @@ img.gif-->
 
 
 
-|Learning now          | Status Codes                                       |
-|----------------------|----------------------------------------------------|
-|Kotlin                | Status: learning                                   |  
-|Java                  | Status: learning                                   |
-|NodeJS(JavaScript)    | Status: learning                                   |
-|React Native          | Status: learning                                   |
+|Learning now          | Status Codes                   |
+|----------------------|--------------------------------|
+|Flutter               | Status: Learning and focused   |
+|Kotlin                | Status: studying in parallel   |  
+|React Native          | Status: studying in parallel   |
 
 
  
