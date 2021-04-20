@@ -26,7 +26,8 @@ img.gif-->
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 👨‍💻learning the language: Kotlin, Java, NodeJS(JavaScript) and React-Native
+### 👨‍💻learning the language: Flutter !!
+#### I love mobile development <3
 
 
 
