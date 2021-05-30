@@ -26,7 +26,7 @@ img.gif-->
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 👨‍💻learning the language: Flutter !!
+### 👨‍💻learning the language: Flutter and Dart !!
 #### I love mobile development <3
 
 
@@ -34,6 +34,7 @@ img.gif-->
 |Learning now          | Status Codes                   |
 |----------------------|--------------------------------|
 |Flutter               | Status: Learning and focused   |
+|Dart                  | Status: Learning and focused   |
 
 
 
