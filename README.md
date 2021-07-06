@@ -38,7 +38,17 @@ img.gif-->
 
 
 
- 
+|basic knowledge       |
+|----------------------|
+|Kotlin                |
+|C#                    | 
+|NodeJs                |
+|Html                  |
+|Css                   |
+|Php                   |
+|MySql                 |
+
+
 
 ### About me
 
