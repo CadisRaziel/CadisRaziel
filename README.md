@@ -41,6 +41,7 @@ img.gif-->
 |basic knowledge       |
 |----------------------|
 |Kotlin                |
+|React Native          |
 |C#                    | 
 |NodeJs                |
 |Html                  |
